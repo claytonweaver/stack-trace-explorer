@@ -4,6 +4,9 @@
   "publisher": "claytonweaver",
   "description": "This simple extension allows you to paste in a stack trace (right now only C# is supported) and will have code take you directly to that file/line number",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/claytonweaver/stack-trace-explorer"
+  },
   "engines": {
     "vscode": "^1.80.0"
   },
