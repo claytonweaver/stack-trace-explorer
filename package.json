@@ -1,6 +1,7 @@
 {
   "name": "stack-trace-explorer",
   "displayName": "Stack Trace Explorer",
+  "publisher": "claytonweaver",
   "description": "This simple extension allows you to paste in a stack trace (right now only C# is supported) and will have code take you directly to that file/line number",
   "version": "0.0.1",
   "engines": {
